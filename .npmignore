@@ -1,0 +1,5 @@
+node_modules/
+src/
+.gitignore
+vite.config.js
+*.test.jsx
