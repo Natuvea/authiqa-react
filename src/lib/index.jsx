@@ -1,5 +1,7 @@
 import React from 'react';
 
-export function HelloWorld() {
+const HelloWorld = () => {
   return <div>Hello World</div>;
-}
+};
+
+export { HelloWorld };

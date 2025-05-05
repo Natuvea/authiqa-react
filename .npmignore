@@ -1,5 +1,22 @@
-node_modules/
+# Source files
 src/
-.gitignore
+tests/
+
+# Config files
+.eslintrc
+.prettierrc
+tsconfig.json
+tsconfig.node.json
 vite.config.js
+
+# Development files
+node_modules/
+.vscode/
+.idea/
+.DS_Store
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
 *.test.jsx
